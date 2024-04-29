@@ -1,6 +1,6 @@
 {
-  "name": "supra-calculator",
-  "version": "2.0.1",
+  "name": "laibas-calculator",
+  "version": "1.0.0",
   "description": "A simple calculator with TypeScript ,Node.js ans Inquirer",
   "main": "index.js",
   "type": "module",
